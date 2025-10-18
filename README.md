@@ -1,1 +1,1 @@
-Hien đang sua file
+hien đng dung file
